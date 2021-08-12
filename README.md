@@ -6,7 +6,7 @@
 
 ## 当前状态
 
-每天能获得 30+ 积分以及 2.5GB+ 日流量，建议配合 [UnicomTask](https://github.com/srcrs/UnicomTask) 食用。
+每天能获得 30+ 积分以及 2.5GB+ 日流量，建配合 [UnicomTask](https://github.com/srcrs/UnicomTask) 食用。
 
 ## 必读必读
 
